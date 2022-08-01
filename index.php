@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="The Savage Girl Guild is a collection of anime-style female characters as well as a story about Filipino Mythical Characters meeting in the modern world. " />
+        <meta name="author" content="Savage Girl Guild" />
+        <meta property="og:image" content="images/imageproperty.jpg">
+    <meta property="og:url" content="https://savagegirlguild.com/">
+    <meta property="og:type" content="website">
+        <title>Savage Girl Guild</title>
+        <!-- Favicon-->
+        <link class="icon" rel="icon" href="images/logoicon.png">
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark" id="mainNav">
+           <a href="https://www.savagegirlguild.com/"> <img src="images/logoS.png" alt=""></a>
+            <div class="container">
+                <div class="logo">
+                    
+                </div>
+                <a class="navbar-brand" href="#page-top"></a>
+                
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                  
+                    <i class="fas fa-bars ms-1"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link" href="#story">STORY</a></li>
+                        
+                        <li class="nav-item"><a class="nav-link" href="#about">ROADMAP</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#team">Team</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+
+            
+        </nav>
+
+
+        <br><br><br><br><br><br>
+      <!-- Services-->
+     <section class="home">
+      <div class="home-content">
+
+     <div class="text">
+       <div class="text-one">WELCOME TO,</div>
+       <div class="text-two">Savage Girl Guild</div>
+       <!--<div class="text-three">UI/UX Designer</div>-->
+      <div class="text-four">
+      The Savage Girl Guild is a collection of anime-style female characters as well as a story about Filipino Mythical Characters meeting in the modern world.  
+     </div>
+     <a  href="https://paras.id/collection/savage-girl-guild-by-savagegirlguildnear" target="_blank">
+     <div class="button" >
+       <button >BUY NFT</button>
+     </div>
+</a>
+   </div>
+ </section>
+
+
+            <section class="page-section1">
+            <div class="container">
+ <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+
+
+
+                
+            </div>
+        </section>
+        </header>
+
+
+      
+
+
+        <!-- Services-->
+        <section class="page-section" id="story">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">THE STORY</h2>
+                    <h3 class="section-subheading text-dark">The Savage Girl Guild is an organization formed to slay the Dalaketnon, which has enslaved humanity for the past 500 years on planet Paras. The Dalaketnon is royal blood evil engkantos and notorious human abductors. They dress up like ordinary people to lure the person into their domain. They use magical black rice that bewitches the victim to stay with them forever. When they get tired of him, he will become a slave, or worse they will feed to flesh-eaters (Tiyanak, Aswang, Bal-Bal, Wak Wak, Manananggal, Amalanhig, and even Tiktik.) The Savage Girl Guild, on the other hand, have to control the elements/element of Apoy, Hangin, Tubig, Kidlat, and Lupa that bestowed by the bathalas of Fire, Wind, Water, Thunder, and Land up in them, which acquires them immortal strength and toughness. This stimulates their chances of defeating Dalaketnon.</h6>
+                </div>
+               
+            </div>
+        </section>
+ 
+        <!-- About-->
+        <section class="page-section" id="about">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">ROADMAP</h2>
+                    <br><br><br><br><br>
+                </div>
+                <ul class="timeline">
+                    <li>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3>PHASE 1</h3>
+                                <br><br>
+                                
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">
+                             <ul>
+                             <li><span style="background-color:#fffb00">Creation of SGG Social Media Accounts</span></li>
+                             <br>
+                             <li><span style="background-color:#fffb00">Paras Account Verified</span></li>
+                             <br>
+                             <li>Public Minting of SGG Cards</li>
+                             <br>
+                             <li>Savage Giveaway when reached 50 holders</li>
+                             
+                             <br>
+                             <li>Holders of three or more SGG cards will be eligible for a Whitelist Title Card, which indicates that you are a Savage Whitelisted Holder and also is your ticket to future exclusive giveaways.</li>
+                            
+                             <br>
+                             <li>20 Whitelist Spot Giveaway to community</li>
+                             <br>
+                             <li>Savage Giveaway when reached #150 holders</li>
+                             <br>
+                             <li>Savage Announcements</li>
+                            
+                        
+                             </ul>
+                            </p></div>
+                        </div>
+                    </li>
+                    
+                    <li class="timeline-inverted">
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3>PHASE 2</h3>
+                               
+                                <div class="timeline-body"><p class="text-muted">
+                             <ul>
+                             
+                             <li>SGG Story Continuation</li>
+                             <br>
+                             <li>Savage Giveaway when reached #200 holders </li>
+                             <br>
+                             <li>Announcement of our Holder Benefits</li>
+                             <br>
+                             <li>Exclusive Legendary Card Giveway for Holders</li>
+                             <br>
+                             <li>SGG Giveaway for Top Holder (Legendary Card)</li>
+                             <br>
+                             <li>Collaboration with Top Creators in Paras</li>
+                             <br>
+                             <li>Exclusive 5% Discount for Legendary Holders (1 use only)</li>
+                             <br>
+                              <li>Savage Announcements</li>
+
+                            
+                        
+                             </ul>
+                            </p></div>
+                    </li>
+                    <li>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3>PHASE 3</h3>
+                                
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">
+                             <ul>
+                             <li>SGG Story Continuation</li>
+                             <br>
+                             <li>SGG Utility Update & Announcements</li>
+                             <br>
+                             <li>SGG Giveaway when reached #300 holders (Special Card)</li>
+                             <br>
+                             <li>Savage Fan Art Contest based on the SGG Story</li>
+                             <br>
+                             <li>Savage Giveaway when reached 500 holders</li>
+                             <br>
+                             <li>Collaboration with Top Creators in Paras</li>
+                            
+                        
+                             </ul>
+                            </p>
+                        </div>
+                    </li>
+
+                    <li class="timeline-inverted">
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3>PHASE 4</h3>
+                               
+                                <div class="timeline-body"><p class="text-muted">
+                             <ul>
+                             
+                             <li>Exclusive Giveaway for Top Holder</li>
+                             <br>
+                             <li>Story Continuation </li>
+                             <br>
+                             <li>Another Announcement of Holder Benefits</li>
+                             <br>
+                             <li>Exclusive Legendary Card Giveway for Whitelisted Holders</li>
+                             <br>
+                             <li>TBA</li>
+                             <br>
+                             <li>TBA</li>
+                             <br>
+                             <li>TBA</li>
+                             <br>
+                              <li>TBA</li>
+
+                            
+                        
+                             </ul>
+                            </p></div>
+                    </li>
+                    
+               
+                   
+                </ul>
+            </div>
+        </section>
+        <!-- Team-->
+        <section class="page-section bg-light" id="team">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Our Team</h2>
+                    <br><br>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="..." />
+                            <h4>Klyn</h4>
+                            <br>
+                            <p class="text-muted"> Co-Founder <br> Author <br> <br><br> </p>
+                            
+                            <a class="btn btn-dark btn-social mx-2" href="https://mobile.twitter.com/JamesBago_" aria-label="James Bago Twitter Profile" target="_blank"><i class="fab fa-twitter"></i></a>
+
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/jamesbago_/" aria-label="James Bago Instagram Profile" target="_blank"><i class="fa-brands fa-instagram-square"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="..." />
+                            <h4>Jaypy</h4>
+                            <br>
+                            <p class="text-muted">Founder <br>Artist <br> Web Developer<br><br></p>
+                            
+                            <a class="btn btn-dark btn-social mx-2" href="https://mobile.twitter.com/JamesBago_" aria-label="James Bago Twitter Profile" target="_blank"><i class="fab fa-twitter"></i></a>
+
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/jamesbago_/" aria-label="James Bago Instagram Profile" target="_blank"><i class="fa-brands fa-instagram-square"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
+                            <h4>Santol</h4>
+                            <br>
+                            <p class="text-muted"> Community Manager <br> Alpha Hunter <br><br><br></p>
+                            
+                            <a class="btn btn-dark btn-social mx-2" href="https://twitter.com/kyubekyube1" aria-label="James Bago Twitter Profile" target="_blank"><i class="fab fa-twitter"></i></a>
+
+                            <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/JohnnyMapanaoPH"" aria-label="James Bago Instagram Profile" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        </div>
+                    </div>
+
+                
+            </div>
+
+
+
+
+            
+        </section>
+        <!-- Clients
+        <div class="py-5">
+            <div class="container">
+            
+                <div class="row align-items-center">
+                   
+                    <div class="col-md-3 col-sm-6 my-3">
+                        <a href="https://www.facebook.com/ArtOfJamesBago" target="_blank"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/jamesbago.png" alt="..." aria-label="Microsoft Logo" /></a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 my-3">
+                        <a href="https://www.facebook.com/HaymeArtwear" target="_blank"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/hayme.png" alt="..." aria-label="Google Logo" /></a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 my-3">
+                        <a href="https://near.org/" target="_blank"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/NEAR.png" alt="..." aria-label="Facebook Logo" /></a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 my-3">
+                        <a href="https://www.facebook.com/JohnnyMapanaoPH" target="_blank"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/JM.png" alt="..." aria-label="IBM Logo" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+
+
+
+
+  
+        <!-- Footer-->
+        <footer class="footer py-4">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 text-lg-start">Copyright &copy; SAVAGE GIRL GUILD 2022</div>
+                    <div class="col-lg-4 my-3 my-lg-0">
+                        <a class="btn btn-dark btn-social mx-2" href="https://mobile.twitter.com/savagegirlguild" aria-label="Twitter" target="_blank"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/savagegirlguild/" aria-label="Instagram" target="_blank"><i class="fa-brands fa-instagram-square"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="https://discord.gg/Gtqse5gAKx" aria-label="Discord" target="_blank"><i class="fa-brands fa-discord"></i></a>
+                    </div>
+                    <div class="col-lg-4 text-lg-end">
+                        <a class="link-dark text-decoration-none me-3" href="https://paras.id/collection/savage-girl-guild-by-savagegirlguildnear" target="_blank">MARKETPLACE</a>
+                        
+                    </div>
+                </div>
+            </div>
+        </footer>
+        
+      
+       
+       
+        <!-- Bootstrap core JS-->
+        <script src="faq.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    </body>
+</html>
